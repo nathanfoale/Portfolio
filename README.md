@@ -4,8 +4,7 @@ Welcome to my portfolio. This is where I will publish my completed projects
 
 ## 📚 Table of Contents
 - Econometric Analysis
-- AFL
-- [Python](#python)
+- Python
 
 
 # Econometric Analysis
