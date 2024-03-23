@@ -1,9 +1,9 @@
 # 🚀 Nathan's Portfolio
 
-Welcome to my portfolio. This is where I will publish my completed projects
+Welcome to my portfolio. This is where I will publish my completed projects.
 
 ## 📚 Table of Contents
-- Econometric Analysis
+- Econometrics
 - Python
 
 
