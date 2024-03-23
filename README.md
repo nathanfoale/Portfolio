@@ -19,7 +19,8 @@ Welcome to my portfolio. This is where I will publish my completed projects
 
 | Project Link | Completion Date | Tools | Project Description | 
 |---|---|---|---|
-| 🦸 [Hero vs Villan Scoreboard]([http://rpubs.com/nathanmaxwellfoale/1164266](https://github.com/nathanfoale/Python_Programing/blob/main/Superhero_Scoreboard.py)) | October 2021 | Python | This is about the battle game between heroes and villains. There will be summary table which includes the information of battles fought, battles won, battles lost, battles drawn, and a health value. Everytime, if there are batles or any changes in the character members, the summary table will be automatically updated. |
+| 🦸 [Hero vs Villan Scoreboard](https://github.com/nathanfoale/Python_Programing/blob/main/Superhero_Scoreboard.py) | October 2021 | Python | This is about the battle game between heroes and villains. There will be summary table which includes the information of battles fought, battles won, battles lost, battles drawn, and a health value. Everytime, if there are batles or any changes in the character members, the summary table will be automatically updated. |
 
 
 ***
+
