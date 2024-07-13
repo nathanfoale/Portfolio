@@ -24,6 +24,11 @@ Welcome to my portfolio. This is where I will publish my completed projects.
 | 📈 [Linear Regression using Scikit-learn](https://github.com/nathanfoale/Machine_Learning_Algorithnms/blob/main/linear_regression) | March 2024 | Python, NumPy, MatPlotLib, Scikit-learn | Aims to understand the relationship between the amount spent on TV advertising and the resulting sales figures. By fitting a linear regression model to the data, the code estimates the linear relationship between these two variables, allowing for the prediction of sales given different levels of TV marketing expenditure. |
 | 🦸 [Hero vs Villan Scoreboard](https://github.com/nathanfoale/Python_Programing/blob/main/Superhero_Scoreboard.py) | October 2021 | Python | This is about the battle game between heroes and villains. There will be summary table which includes the information of battles fought, battles won, battles lost, battles drawn, and a health value. Everytime, if there are batles or any changes in the character members, the summary table will be automatically updated. |
 
+# Machine Learning Algorithms
+
+| Project Link | Tools 
+|---|---|
+| ♾️ https://github.com/nathanfoale/Machine_Learning_Algorithnms) | October 2023 | Python |  fundamental numbers in mathematics. | https://www.youtube.com/watch?v=h08XZwRaAuk 
 
 ***
 
