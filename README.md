@@ -28,7 +28,7 @@ Welcome to my portfolio. This is where I will publish my completed projects.
 
 | Project Link | Tools 
 |---|---|
-| ♾️ https://github.com/nathanfoale/Machine_Learning_Algorithnms) | October 2023 | Python |  fundamental numbers in mathematics. | https://www.youtube.com/watch?v=h08XZwRaAuk 
+| 🤖 https://github.com/nathanfoale/Machine_Learning_Algorithnms | Python |
 
 ***
 
