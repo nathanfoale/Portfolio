@@ -25,6 +25,15 @@ Welcome to my portfolio. This is where I will publish my completed projects.
 | 📈 [Linear Regression using Scikit-learn](https://github.com/nathanfoale/Machine_Learning_Algorithnms/blob/main/linear_regression) | March 2024 | Python, NumPy, MatPlotLib, Scikit-learn | Aims to understand the relationship between the amount spent on TV advertising and the resulting sales figures. By fitting a linear regression model to the data, the code estimates the linear relationship between these two variables, allowing for the prediction of sales given different levels of TV marketing expenditure. |
 | 🦸 [Hero vs Villan Scoreboard](https://github.com/nathanfoale/Python_Programing/blob/main/Superhero_Scoreboard.py) | October 2021 | Python | This is about the battle game between heroes and villains. There will be summary table which includes the information of battles fought, battles won, battles lost, battles drawn, and a health value. Everytime, if there are batles or any changes in the character members, the summary table will be automatically updated. |
 
+# R
+
+| Project Link | Completion Date | Tools | Project Description
+|---|---|---|---|---|
+| ♾️ [Showdown Dashboard](https://github.com/nathanfoale/R_Scripts/blob/main/AFL_stats_dashboard) | April 2024 | R | Utilising FitzRoy packages to pull data from all matches between Port Adelaide and Adelaide, allowing the user to select a stat category and view highest player totals and averages from showdown matches. |
+| 🏉 [North Melbourne FC Season Statistics](https://github.com/nathanfoale/AFL/blob/main/North_Melbourne_FC) | October 2022 | Python, Jupyter Notebook | Analysis of 2022 season statistics, looking at specific areas of the game to see which stats had the highest correlation to winning matches |
+| 📈 [Linear Regression using Scikit-learn](https://github.com/nathanfoale/Machine_Learning_Algorithnms/blob/main/linear_regression) | March 2024 | Python, NumPy, MatPlotLib, Scikit-learn | Aims to understand the relationship between the amount spent on TV advertising and the resulting sales figures. By fitting a linear regression model to the data, the code estimates the linear relationship between these two variables, allowing for the prediction of sales given different levels of TV marketing expenditure. |
+| 🦸 [Hero vs Villan Scoreboard](https://github.com/nathanfoale/Python_Programing/blob/main/Superhero_Scoreboard.py) | October 2021 | Python | This is about the battle game between heroes and villains. There will be summary table which includes the information of battles fought, battles won, battles lost, battles drawn, and a health value. Everytime, if there are batles or any changes in the character members, the summary table will be automatically updated. |
+
 # Machine Learning Algorithms
 
 | Project Link | Tools 
