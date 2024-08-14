@@ -10,7 +10,7 @@ Welcome to my portfolio. This is where I will publish my completed projects.
 - Machine Learning
 
 
-# Econometric Analysis
+# Econometrics
 
 | Project Link | Completion Date | Tools | Project Description | Links
 |---|---|---|---|---|
@@ -37,6 +37,7 @@ Welcome to my portfolio. This is where I will publish my completed projects.
 
 | Project Link | Completion Date | Tools | Project Description
 |---|---|---|---|
+| 📈 [Maximum Likelihood Estimation](https://github.com/nathanfoale/Maximum_Likelihood_Estimation/tree/main) | August 2024 | R | Interactive web application that simulates the Maximum Likelihood Estimation of parameters for the Weibull distribution. The app is divided into two main sections: a Simulation tab where users can visualize the distribution and relationships of the MLEs, and a Summary Statistics tab that provides a summary of the simulation results. |
 | 🏉 [Showdown Dashboard](https://github.com/nathanfoale/R_Scripts/blob/main/AFL_stats_dashboard) | April 2024 | R | Utilising FitzRoy packages to pull data from all matches between Port Adelaide and Adelaide, allowing the user to select a stat category and view highest player totals and averages from showdown matches. |
 | 🏉 [AFL Dashboard](https://github.com/nathanfoale/R_Scripts/blob/main/AFL_stats_dashboard) | April 2024 | R | Utilising FitzRoy packages to pull data from all AFL matches in a season selected by the user, allowing user to select a stat category and view highest player totals and averages from that season. |
 | 🏉 [Brownlow Predictor](https://github.com/nathanfoale/R_Scripts/blob/main/Brownlow_regression_analysis) | May 2024 | R | Utilising FitzRoy packages to pull data from all AFL match data, including brownlow votes, to show correlations and relationships between certain statistics and brownlow votes. Regression analysis used to make predictions. |
