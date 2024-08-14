@@ -18,9 +18,9 @@ Welcome to my portfolio. This is where I will publish my completed projects.
 
 # Mathematical Visualisations
 
-| Project Link | Tools 
-|---|---|
-| 𝕖 [Euler's Identity](https://github.com/nathanfoale/math_visualisations/tree/main) | Python, MANIM Engine |
+| Project Link | Completion Date | Tools | Project Description | Links
+|---|---|---|---|---|
+| 𝕖 [Euler's Identity](https://github.com/nathanfoale/math_visualisations/tree/main) | November 2023 | Python, MANIM Engine | Inspired by @3blue1brown - exploring Euler's Identity. | https://youtu.be/h08XZwRaAuk?si=SPa_wK53m9RSQRk4 |
 
 # Python
 
