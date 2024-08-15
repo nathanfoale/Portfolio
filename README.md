@@ -24,6 +24,12 @@ Welcome to my portfolio. This is where I will publish my completed projects.
 |---|---|---|---|---|
 | 𝕖 [Euler's Identity](https://github.com/nathanfoale/math_visualisations/tree/main) | November 2023 | Python, MANIM Engine | Inspired by @3blue1brown - exploring Euler's Identity. | https://youtu.be/h08XZwRaAuk?si=SPa_wK53m9RSQRk4 |
 
+# Referral Investing Arbitrage 
+
+| Project Link | Completion Date | Tools | Project Description | Links
+|---|---|---|---|---|
+| 𝕖 [eToro Referral Bonus Strategy ](https://github.com/nathanfoale/Referral_Bonus_Strategy/blob/main/referral_investment_arbitrage)| August 2024 | R, brain | Taking advantage of a stock trading platforms referral bonuses to make a profit | https://github.com/nathanfoale/Referral_Bonus_Strategy/blob/main/referral_investment_arbitrage |
+
 # Python
 
 | Project Link | Completion Date | Tools | Project Description | Links
