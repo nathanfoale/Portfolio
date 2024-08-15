@@ -4,10 +4,10 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 
 ## 📚 Table of Contents
 - Econometrics
-- Math
+- Math Visualisation
 - Python
 - R
-- Machine Learning
+
 
 
 # Econometrics
