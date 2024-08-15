@@ -1,6 +1,6 @@
 # 🚀 Nathan's Portfolio
 
-Welcome to my portfolio. This is where I will publish my completed projects.
+Welcome to my GitHub portfolio. This is where I will publish my completed projects & code for use 
 
 ## 📚 Table of Contents
 - Econometrics
