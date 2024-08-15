@@ -28,7 +28,7 @@ Welcome to my portfolio. This is where I will publish my completed projects.
 
 | Project Link | Completion Date | Tools | Project Description | Links
 |---|---|---|---|---|
-| 𝕖 [eToro Referral Bonus Strategy ](https://github.com/nathanfoale/Referral_Bonus_Strategy/blob/main/referral_investment_arbitrage)| August 2024 | R, brain | Taking advantage of a stock trading platforms referral bonuses to make a profit | https://github.com/nathanfoale/Referral_Bonus_Strategy/blob/main/referral_investment_arbitrage |
+| 📈 [eToro Referral Bonus Strategy ](https://github.com/nathanfoale/Referral_Bonus_Strategy/blob/main/referral_investment_arbitrage)| August 2024 | R, brain | Taking advantage of a stock trading platforms referral bonuses to make a profit | https://github.com/nathanfoale/Referral_Bonus_Strategy/blob/main/referral_investment_arbitrage |
 
 # Python
 
