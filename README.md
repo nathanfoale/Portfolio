@@ -16,7 +16,7 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 |---|---|---|---|---|
 | 👨🏻‍💼 [Mortgage Loan](http://rpubs.com/nathanmaxwellfoale/1164266) | March 2024 | R Studio | Implementing econometric and statistical techniques to test for discrimination on the basis of race in the mortgage loan market. | http://rpubs.com/nathanmaxwellfoale/1164266 |
 | 📊  [Time Series Pre Processing](http://rpubs.com/nathanmaxwellfoale/1164267) | March 2024 | R Studio | Applied appropriate pre-processing techniques to improve the accuracy of future forecasts on retail turnover data. | http://rpubs.com/nathanmaxwellfoale/1164267 |
-| 📈  [Financial Time Series Analysis](http://rpubs.com/nathanmaxwellfoale/1175369) | April 2024 | R Studio | Analysis of various industry portfolios to understand their behavior, correlations, and risk-adjusted returns over a specified period.  | http://rpubs.com/nathanmaxwellfoale/1175369) |
+| 📈  [Financial Time Series Analysis](http://rpubs.com/nathanmaxwellfoale/1175369) | April 2024 | R Studio | Analysis of various industry portfolios to understand their behavior, correlations, and risk-adjusted returns over a specified period.  | http://rpubs.com/nathanmaxwellfoale/1175369 |
 
 # Mathematical Visualisations
 
@@ -28,7 +28,7 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 
 | Project Link | Completion Date | Tools | Project Description | Links
 |---|---|---|---|---|
-| 📈 [eToro Referral Bonus Strategy ](https://github.com/nathanfoale/Referral_Bonus_Strategy/blob/main/app.R)| August 2024 | R, brain | Taking advantage of a stock trading platforms referral bonuses to make a profit | [https://github.com/nathanfoale/Referral_Bonus_Strategy/blob/main/app.R] |
+| 📈 [eToro Referral Bonus Strategy ](https://github.com/nathanfoale/Referral_Bonus_Strategy/blob/main/app.R)| August 2024 | R, brain | Taking advantage of a stock trading platforms referral bonuses to make a profit | https://github.com/nathanfoale/Referral_Bonus_Strategy/blob/main/app.R |
 
 # Python
 
