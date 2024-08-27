@@ -23,7 +23,7 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 | Project Link | Completion Date | Tools | Project Description | Links
 |---|---|---|---|---|
 | 𝕖 [Euler's Identity](https://github.com/nathanfoale/math_visualisations/tree/main) | November 2023 | Python, MANIM Engine | Inspired by @3blue1brown - exploring Euler's Identity. | https://youtu.be/h08XZwRaAuk?si=SPa_wK53m9RSQRk4 |
-| 𝕖 [BitMorse](https://github.com/nathanfoale/arduino/blob/main/morse_binary) | August 2024 | C++ | Binary & Morse Code Trainer | https://youtu.be/h08XZwRaAuk?si=SPa_wK53m9RSQRk4 |
+| 💻 [BitMorse](https://github.com/nathanfoale/arduino/blob/main/morse_binary) | August 2024 | C++ | Binary & Morse Code Trainer | https://github.com/nathanfoale/arduino/blob/main/morse_binary.mov |
 
 # Referral Investing Arbitrage 
 
