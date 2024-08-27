@@ -18,11 +18,12 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 | 📊  [Time Series Pre Processing](http://rpubs.com/nathanmaxwellfoale/1164267) | March 2024 | R Studio | Applied appropriate pre-processing techniques to improve the accuracy of future forecasts on retail turnover data. | http://rpubs.com/nathanmaxwellfoale/1164267 |
 | 📈  [Financial Time Series Analysis](http://rpubs.com/nathanmaxwellfoale/1175369) | April 2024 | R Studio | Analysis of various industry portfolios to understand their behavior, correlations, and risk-adjusted returns over a specified period.  | http://rpubs.com/nathanmaxwellfoale/1175369 |
 
-# Mathematical Visualisations
+# Fun stuff
 
 | Project Link | Completion Date | Tools | Project Description | Links
 |---|---|---|---|---|
 | 𝕖 [Euler's Identity](https://github.com/nathanfoale/math_visualisations/tree/main) | November 2023 | Python, MANIM Engine | Inspired by @3blue1brown - exploring Euler's Identity. | https://youtu.be/h08XZwRaAuk?si=SPa_wK53m9RSQRk4 |
+| 𝕖 [BitMorse](https://github.com/nathanfoale/math_visualisations/tree/main) | August 2024 | C++ | Binary & Morse Code Trainer | https://youtu.be/h08XZwRaAuk?si=SPa_wK53m9RSQRk4 |
 
 # Referral Investing Arbitrage 
 
