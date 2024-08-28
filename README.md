@@ -49,7 +49,11 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 | 🏉 [AFL Dashboard](https://github.com/nathanfoale/R_Scripts/blob/main/AFL_stats_dashboard) | April 2024 | R | Utilising FitzRoy packages to pull data from all AFL matches in a season selected by the user, allowing user to select a stat category and view highest player totals and averages from that season. |
 | 🏉 [Brownlow Predictor](https://github.com/nathanfoale/R_Scripts/blob/main/Brownlow_regression_analysis) | May 2024 | R | Utilising FitzRoy packages to pull data from all AFL match data, including brownlow votes, to show correlations and relationships between certain statistics and brownlow votes. Regression analysis used to make predictions. |
 
+# Portfolio Website
 
+| Project Link | Completion Date | Tools | Project Description | Links
+|---|---|---|---|---|
+| 🖥️ [Portfolio Website](https://github.com/nathanfoale/Referral_Bonus_Strategy/blob/main/app.R)| Ongoing | HTML, CSS, JavaScript | Website to showcase my projects | www.nathanfoale.com |
 
 # Machine Learning Algorithms
 
