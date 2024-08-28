@@ -54,7 +54,7 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 
 | Project Link | Completion Date | Tools | Project Description | Links
 |---|---|---|---|---|
-| 🖥️ [Portfolio Website](https://github.com/nathanfoale/Referral_Bonus_Strategy/blob/main/app.R)| Ongoing | HTML, CSS, JavaScript | Website to showcase my projects | www.nathanfoale.com |
+| 🖥️ [Portfolio Website](https://github.com/nathanfoale/Websites)| Ongoing | HTML, CSS, JavaScript | Website to showcase my projects | www.nathanfoale.com |
 
 # Machine Learning Algorithms
 
