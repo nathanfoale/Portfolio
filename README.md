@@ -46,8 +46,7 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 
 | Project Link | Completion Date | Tools | Project Description | Links |
 |---|---|---|---|---|
-| 📈 [Maximum Likelihood Estimation](https://github.com/nathanfoale/Maximum_Likelihood_Estimation/tree/main) | August 2024 | R | Interactive web application that simulates the Maximum Likelihood Estimation of parameters for the Weibull distribution. The app is divided into two main sections: a Simulation tab where users can visualize the distribution and relationships of the MLEs, and a Summary Statistics tab that provides a summary of the simulation results. | https://github.com/nathanfoale/Maximum_Likelihood_Estimation/tree/main |
-https://nathanfoale.shinyapps.io/MLE_Simulation/ |
+| 📈 [Maximum Likelihood Estimation](https://github.com/nathanfoale/Maximum_Likelihood_Estimation/tree/main) | August 2024 | R | Interactive web application that simulates the Maximum Likelihood Estimation of parameters for the Weibull distribution. The app is divided into two main sections: a Simulation tab where users can visualize the distribution and relationships of the MLEs, and a Summary Statistics tab that provides a summary of the simulation results. | https://nathanfoale.shinyapps.io/MLE_Simulation/ | 
 
 
 # Websites
