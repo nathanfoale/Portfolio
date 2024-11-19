@@ -43,10 +43,11 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 
 # R
 
-| Project Link | Completion Date | Tools | Project Description
+| Project Link | Completion Date | Tools | Project Description | Links |
 |---|---|---|---|---|
-| 📈 [Maximum Likelihood Estimation](https://github.com/nathanfoale/Maximum_Likelihood_Estimation/tree/main) | August 2024 | R | Interactive web application that simulates the Maximum Likelihood Estimation of parameters for the Weibull distribution. The app is divided into two main sections: a Simulation tab where users can visualize the distribution and relationships of the MLEs, and a Summary Statistics tab that provides a summary of the simulation results. |
-| 🏉 [Showdown Dashboard](https://github.com/nathanfoale/R_Scripts/blob/main/AFL_stats_dashboard) | April 2024 | R | Utilising FitzRoy packages to pull data from all matches between Port Adelaide and Adelaide, allowing the user to select a stat category and view highest player totals and averages from showdown matches. |
+| 📈 [Maximum Likelihood Estimation](https://github.com/nathanfoale/Maximum_Likelihood_Estimation/tree/main) | August 2024 | R | Interactive web application that simulates the Maximum Likelihood Estimation of parameters for the Weibull distribution. The app is divided into two main sections: a Simulation tab where users can visualize the distribution and relationships of the MLEs, and a Summary Statistics tab that provides a summary of the simulation results. | https://github.com/nathanfoale/Maximum_Likelihood_Estimation/tree/main |
+| 🏉 [Showdown Dashboard](https://github.com/nathanfoale/R_Scripts/blob/main/AFL_stats_dashboard) | April 2024 | R | Utilising FitzRoy packages to pull data from all matches between Port Adelaide and Adelaide, allowing the user to select a stat category and view highest player totals and averages from showdown matches. | https://github.com/nathanfoale/R_Scripts/blob/main/AFL_stats_dashboard |
+
 
 # Websites
 
