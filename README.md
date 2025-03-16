@@ -39,7 +39,7 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 
 | Project Link | Completion Date | Tools | Project Description | Links
 |---|---|---|---|---|
-| 🤖 [Discord Bot](https://github.com/nathanfoale/Python_Programing/blob/main/Superhero_Scoreboard.py) | March 2025 | Python | This is a discord bot with numerous commands  |
+| 🤖 [Discord Bot](https://github.com/nathanfoale/Python_Programing/blob/main/Superhero_Scoreboard.py) | March 2025 | Python | This is a discord bot with numerous commands.  | |
 
 | ♾️ [Euler's Identity Visualisation](https://github.com/nathanfoale/Python_Programing/blob/main/my_animation.py) | October 2023 | Python | Utilising MANIM Mathematical Engine to visualise Euler's Identity, a mathematical beauty which shows the profound connection between the most fundamental numbers in mathematics. | https://www.youtube.com/watch?v=h08XZwRaAuk |
 | 🏉 [North Melbourne FC Season Statistics](https://github.com/nathanfoale/AFL/blob/main/North_Melbourne_FC) | October 2022 | Python, Jupyter Notebook | Analysis of 2022 season statistics, looking at specific areas of the game to see which stats had the highest correlation to winning matches |
