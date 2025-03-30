@@ -19,6 +19,9 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 | 👨🏻‍💼 [Mortgage Loan](http://rpubs.com/nathanmaxwellfoale/1164266) | March 2024 | R Studio | Implementing econometric and statistical techniques to test for discrimination on the basis of race in the mortgage loan market. | http://rpubs.com/nathanmaxwellfoale/1164266 |
 | 📊  [Time Series Pre Processing](http://rpubs.com/nathanmaxwellfoale/1164267) | March 2024 | R Studio | Applied appropriate pre-processing techniques to improve the accuracy of future forecasts on retail turnover data. | http://rpubs.com/nathanmaxwellfoale/1164267 |
 | 📈  [Financial Time Series Analysis](http://rpubs.com/nathanmaxwellfoale/1175369) | April 2024 | R Studio | Analysis of various industry portfolios to understand their behavior, correlations, and risk-adjusted returns over a specified period.  | http://rpubs.com/nathanmaxwellfoale/1175369 |
+📊 [Budget Strategy Dashboard](https://ausbudgetdash.streamlit.app) | March 2025 | Python, Streamlit, Plotly | Interactive dashboard visualising Australian government spending by category, surplus/deficit over time, international debt comparisons, and tax revenue breakdowns. | https://ausbudgetdash.streamlit.app |
+| 🏡 [Housing Supply Simulation](https://laborbudget2025.streamlit.app) | March 2025 | Python, Streamlit, Plotly | Simulates housing demand vs. supply under various migration and construction scenarios. Provides visual outputs of supply/demand, rental price pressure, and housing surplus. | https://laborbudget2025.streamlit.app |
+
 
 # Fun stuff
 
