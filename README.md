@@ -13,7 +13,7 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 
 | Project Link | Completion Date | Tools | Project Description | Links
 |---|---|---|---|---|
-| 🃏 [Crown Blackjack Simulation](https://crown-blackjack.streamlit.app) | April 2025 | Python, Streamlit, Plotly | Simulates  | A Monte Carlo simulator for Crown Blackjack using Hi-Lo true count, risk metrics, and EV estimation under real-world casino constraints. | https://crown-blackjack.streamlit.app |
+| 🃏 [Crown Blackjack Simulation](https://crown-blackjack.streamlit.app) | April 2025 | Python, Streamlit, Plotly | A Monte Carlo simulator for Crown Blackjack using Hi-Lo true count, risk metrics, and EV estimation under real-world casino constraints. | https://crown-blackjack.streamlit.app |
 
 
 # Econometrics
