@@ -9,7 +9,7 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 - R
 - Websites
 
-# Blackjack
+# Blackjack Monte Carlo Simulators
 
 | Project Link | Completion Date | Tools | Project Description | Links
 |---|---|---|---|---|
