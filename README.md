@@ -62,11 +62,5 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 | 🚌 [Reliable Cleaners](https://github.com/nathanfoale/Websites/tree/main)| September 2024 | R, Excel | Custom built Shiny web application designed to streamline the invoicing process for a family-operated bus cleaning and refuelling business | https://nathanfoale.shinyapps.io/reliable_cleaners/ |
 |💼 [Payslip Planning Tool](https://payslip-tool-ui.vercel.app)| November 2024 | JavaScript, NextJS, React | Custom built web tool designed for part time Apple employees to plan for their upcoming pay weeks, allowing users to  manage their work shifts and optimise their earnings. By inputting their work schedule and preferred contribution percentages, employees can effortlessly visualise the impact of picking up additional shifts or delegating existing ones on their net income. The tool integrates real-time tax calculations and ESPP (Employee Stock Purchase Plan) projections. | https://payslip-tool-ui.vercel.app |
 
-# Machine Learning Algorithms
 
-| Project Link | Tools 
-|---|---|
-| 🤖 https://github.com/nathanfoale/Machine_Learning_Algorithnms | Python |
-
-***
 
