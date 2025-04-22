@@ -9,12 +9,13 @@ Welcome to my GitHub portfolio. This is where I will publish my completed projec
 - R
 - Websites
 
-# Blackjack Monte Carlo Simulators
+# Blackjack & Poker Simulators
 
 | Project Link | Completion Date | Tools | Project Description | Links
 |---|---|---|---|---|
 | 🃏 [Crown Blackjack Simulation](https://crown-blackjack.streamlit.app) | April 2025 | Python, Streamlit, Plotly | A Monte Carlo simulator for Crown Blackjack using Hi-Lo true count, risk metrics, and EV estimation under real-world casino constraints. | https://crown-blackjack.streamlit.app |
 | 🎰 [SkyCity Blackjack Simulation](https://skycityblackjack.streamlit.app) | April 2025 | Python, Streamlit, Plotly | A Monte Carlo simulator for SkyCity Blackjack using flat betting and basic strategy under continuous shuffling machine conditions. | https://skycityblackjack.streamlit.app |
+| ♠️ [Texas Hold'em Poker Trainer](https://github.com/nathanfoale/poker_trainer) | April 2025 | Python (CLI) | A CLI Texas Hold'em trainer simulating realistic 4-max cash games with positional play, opponent profiles, pot odds, fold equity, and post-hand feedback to improve decision-making. | [View Code](https://github.com/nathanfoale/poker_trainer) |
 
 
 # Econometrics
